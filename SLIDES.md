@@ -73,4 +73,4 @@ How to use the Terminal?
 ---
 # Further Reading
 - "Oh shit, git" Julia Evans
-- Changing Laws with git
+- Changing Laws with git https://arstechnica.com/tech-policy/2018/11/how-i-changed-the-law-with-a-github-pull-request/
